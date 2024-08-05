@@ -185,8 +185,7 @@
           "private",
           "telegram",
           "cloudflare"
-        ],
-        "onlyIPType": "ipv4"
+        ]
       }
     }
   ]
